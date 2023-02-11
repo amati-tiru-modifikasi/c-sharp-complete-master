@@ -1,0 +1,15 @@
+C:\Users\RSUP\DEV\C#\C# Complete Master\course-materials\2\3\After\ShowCompileRuntimeErrors\bin\Debug\net6.0\ShowCompileRuntimeErrors.exe
+C:\Users\RSUP\DEV\C#\C# Complete Master\course-materials\2\3\After\ShowCompileRuntimeErrors\bin\Debug\net6.0\ShowCompileRuntimeErrors.deps.json
+C:\Users\RSUP\DEV\C#\C# Complete Master\course-materials\2\3\After\ShowCompileRuntimeErrors\bin\Debug\net6.0\ShowCompileRuntimeErrors.runtimeconfig.json
+C:\Users\RSUP\DEV\C#\C# Complete Master\course-materials\2\3\After\ShowCompileRuntimeErrors\bin\Debug\net6.0\ShowCompileRuntimeErrors.dll
+C:\Users\RSUP\DEV\C#\C# Complete Master\course-materials\2\3\After\ShowCompileRuntimeErrors\bin\Debug\net6.0\ShowCompileRuntimeErrors.pdb
+C:\Users\RSUP\DEV\C#\C# Complete Master\course-materials\2\3\After\ShowCompileRuntimeErrors\obj\Debug\net6.0\ShowCompileRuntimeErrors.csproj.AssemblyReference.cache
+C:\Users\RSUP\DEV\C#\C# Complete Master\course-materials\2\3\After\ShowCompileRuntimeErrors\obj\Debug\net6.0\ShowCompileRuntimeErrors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RSUP\DEV\C#\C# Complete Master\course-materials\2\3\After\ShowCompileRuntimeErrors\obj\Debug\net6.0\ShowCompileRuntimeErrors.AssemblyInfoInputs.cache
+C:\Users\RSUP\DEV\C#\C# Complete Master\course-materials\2\3\After\ShowCompileRuntimeErrors\obj\Debug\net6.0\ShowCompileRuntimeErrors.AssemblyInfo.cs
+C:\Users\RSUP\DEV\C#\C# Complete Master\course-materials\2\3\After\ShowCompileRuntimeErrors\obj\Debug\net6.0\ShowCompileRuntimeErrors.csproj.CoreCompileInputs.cache
+C:\Users\RSUP\DEV\C#\C# Complete Master\course-materials\2\3\After\ShowCompileRuntimeErrors\obj\Debug\net6.0\ShowCompileRuntimeErrors.dll
+C:\Users\RSUP\DEV\C#\C# Complete Master\course-materials\2\3\After\ShowCompileRuntimeErrors\obj\Debug\net6.0\refint\ShowCompileRuntimeErrors.dll
+C:\Users\RSUP\DEV\C#\C# Complete Master\course-materials\2\3\After\ShowCompileRuntimeErrors\obj\Debug\net6.0\ShowCompileRuntimeErrors.pdb
+C:\Users\RSUP\DEV\C#\C# Complete Master\course-materials\2\3\After\ShowCompileRuntimeErrors\obj\Debug\net6.0\ShowCompileRuntimeErrors.genruntimeconfig.cache
+C:\Users\RSUP\DEV\C#\C# Complete Master\course-materials\2\3\After\ShowCompileRuntimeErrors\obj\Debug\net6.0\ref\ShowCompileRuntimeErrors.dll
